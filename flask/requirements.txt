@@ -1,0 +1,6 @@
+# Application dependencies
+flask<1.0,>=0.12
+
+# Development dependencies
+coverage<5.0,>=4.5
+flake8<4.0,>=3.5
