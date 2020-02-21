@@ -1,17 +1,17 @@
 # NodeJS Seed Application
 ## Prerequisites
-* NodeJS 8.X or later
-
+* NodeJS 12.X or later
+* yarn
 
 ## Development
 ### Setup
-```bash
+```sh
 # Install requirements
 yarn
 ```
 
 ### Test
-```bash
+```sh
 # Run lint
 yarn lint
 
@@ -20,10 +20,9 @@ yarn test
 ```
 
 ### Run
-```bash
-yarn start-dev
+```sh
+yarn debug
 ```
-
 
 ## Deployment
 ```bash
