@@ -1,8 +1,0 @@
-{
-  "schemaPath": "schema/schema.graphql",
-  "extensions": {
-    "endpoints": {
-      "dev": "https://example.com/graphql"
-    }
-  }
-}
